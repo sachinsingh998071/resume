@@ -1,2 +1,2 @@
-# resume
- creating aresume 
+# RESUME
+ create a resume
